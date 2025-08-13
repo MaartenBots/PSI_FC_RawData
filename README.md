@@ -29,7 +29,7 @@ The notebook follows four main steps:
 ---
 
 **4. Delete Temporary and Uploaded Files from Google Drive**
-
+* If you want you can also delete the Sorted folder yourself, it is not automatically done.
 * To save storage space in Google Drive, the notebook includes a cleanup step.
 * It automatically deletes all files that were uploaded and processed during the session.
 * This keeps your Drive organized and ensures no unnecessary data is left behind after processing.
