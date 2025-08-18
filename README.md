@@ -29,7 +29,7 @@ RawData/2025-02-2/
 Metadata/metadata.xlsx
 ```
 
-**Flat**
+**or Flat, if you already did things with the data and everything is in one folder**
 ```
 DownloadsRoot/
 Experiment\_1.tar
